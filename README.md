@@ -5,7 +5,8 @@ purpose. If you use our code, please cite the paper [1].
 
 2. This code  needs VLFeat open source library which can be downloaded at  http://www.vlfeat.org/, and the source code for 
 [2] P. Arbelaez, M. Maire, C. Fowlkes, J. Malik, "Contour detection and hierarchical image segmentation," IEEE Transactions on 
-Pattern Analysis and Machine Intelligence, vol. 33, no. 5, pp. 898-916, May 2011. The source code for [2] can be downloaded at http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html    
+Pattern Analysis and Machine Intelligence, vol. 33, no. 5, pp. 898-916, May 2011. The source code for [2] can be downloaded at http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html  
+
 3.To run the code
 
 (1)For Windows
