@@ -8,7 +8,7 @@ Pattern Analysis and Machine Intelligence, vol. 33, no. 5, pp. 898-916, May 2011
 
 * 3  Run the code
 
-(1)For Windows
+>>(1)For Windows
 Please first use the source code of [2] (Note that you need to use the file "im2ucm.m" in the folder ST_win\ to replace the corresponding 
 original file in the source code [2], to generate the same results in [1]. We use a resizing factor of 0.5 for speedup.), to generate 
 the Matlab mat file for ultrametric contour map (UCM).
